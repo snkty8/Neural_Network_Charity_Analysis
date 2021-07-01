@@ -39,21 +39,21 @@ Using knowlegde of machine learning and neural networks, we will use the feature
         ![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_4.png)
 
 - Were you able to achieve the target model performance?
-    The target accuracy was 75%.  Below are the results for each attempt:
+The target accuracy was 75%.  Below are the results for each attempt:
 
-    - Attempt 1
-        ![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_1_results.png)
+- Attempt 1
+![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_1_results.png)
 
-    - Attempt 2
-        ![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_2_results.png)
+- Attempt 2
+![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_2_results.png)
 
-    - Attempt 3
-        ![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_3_results.png)
+- Attempt 3
+![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_3_results.png)
 
-    - Attempt 4
-        ![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_4_results.png)
+- Attempt 4
+![image](https://github.com/snkty8/Neural_Network_Charity_Analysis/blob/main/images/attempt_4_results.png)
 
-    As shown from the images, I did reach the target goal for accuracy. Although, I was able to gradually raise the level of accuracy, it seemed to level out at 72.9%.
+As shown from the images, I did reach the target goal for accuracy. Although, I was able to gradually raise the level of accuracy, it seemed to level out at 72.9%.
 
 - What steps did you take to try and increase model performance?
     - As shown above in a previous section, I tried increasing and decreasing the number of neurons, adding an additional hidden layer with a different activation function, and using the checkpoint method. 
